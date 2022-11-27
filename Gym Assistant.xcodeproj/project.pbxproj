@@ -10,11 +10,14 @@
 		477E9D4A292CCFB4004C7E13 /* Gym Assistant Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 477E9D49292CCFB4004C7E13 /* Gym Assistant Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		477E9D4F292CCFB4004C7E13 /* Gym_AssistantApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477E9D4E292CCFB4004C7E13 /* Gym_AssistantApp.swift */; };
 		477E9D51292CCFB4004C7E13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477E9D50292CCFB4004C7E13 /* ContentView.swift */; };
-		477E9D53292CCFB6004C7E13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 477E9D52292CCFB6004C7E13 /* Assets.xcassets */; };
 		477E9D56292CCFB6004C7E13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 477E9D55292CCFB6004C7E13 /* Preview Assets.xcassets */; };
 		477E9D60292CCFB7004C7E13 /* Gym_Assistant_Watch_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477E9D5F292CCFB7004C7E13 /* Gym_Assistant_Watch_AppTests.swift */; };
 		477E9D6A292CCFB7004C7E13 /* Gym_Assistant_Watch_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477E9D69292CCFB7004C7E13 /* Gym_Assistant_Watch_AppUITests.swift */; };
 		477E9D6C292CCFB7004C7E13 /* Gym_Assistant_Watch_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 477E9D6B292CCFB7004C7E13 /* Gym_Assistant_Watch_AppUITestsLaunchTests.swift */; };
+		47D0B1D12933A2570061FD40 /* AppIcon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 47D0B1D02933A2570061FD40 /* AppIcon.jpg */; };
+		47D0B1D52933A4460061FD40 /* appstore.png in Resources */ = {isa = PBXBuildFile; fileRef = 47D0B1D22933A4460061FD40 /* appstore.png */; };
+		47D0B1D62933A4460061FD40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47D0B1D32933A4460061FD40 /* Assets.xcassets */; };
+		47D0B1D72933A4460061FD40 /* playstore.png in Resources */ = {isa = PBXBuildFile; fileRef = 47D0B1D42933A4460061FD40 /* playstore.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,13 +63,16 @@
 		477E9D49292CCFB4004C7E13 /* Gym Assistant Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Gym Assistant Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		477E9D4E292CCFB4004C7E13 /* Gym_AssistantApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gym_AssistantApp.swift; sourceTree = "<group>"; };
 		477E9D50292CCFB4004C7E13 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		477E9D52292CCFB6004C7E13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		477E9D55292CCFB6004C7E13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		477E9D5B292CCFB7004C7E13 /* Gym Assistant Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Gym Assistant Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		477E9D5F292CCFB7004C7E13 /* Gym_Assistant_Watch_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gym_Assistant_Watch_AppTests.swift; sourceTree = "<group>"; };
 		477E9D65292CCFB7004C7E13 /* Gym Assistant Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Gym Assistant Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		477E9D69292CCFB7004C7E13 /* Gym_Assistant_Watch_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gym_Assistant_Watch_AppUITests.swift; sourceTree = "<group>"; };
 		477E9D6B292CCFB7004C7E13 /* Gym_Assistant_Watch_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gym_Assistant_Watch_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		47D0B1D02933A2570061FD40 /* AppIcon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = AppIcon.jpg; path = ../../../Downloads/AppIcon.jpg; sourceTree = "<group>"; };
+		47D0B1D22933A4460061FD40 /* appstore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appstore.png; path = "../../../Downloads/AppIcons-2/appstore.png"; sourceTree = "<group>"; };
+		47D0B1D32933A4460061FD40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Downloads/AppIcons-2/Assets.xcassets"; sourceTree = "<group>"; };
+		47D0B1D42933A4460061FD40 /* playstore.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = playstore.png; path = "../../../Downloads/AppIcons-2/playstore.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,7 +126,10 @@
 			children = (
 				477E9D4E292CCFB4004C7E13 /* Gym_AssistantApp.swift */,
 				477E9D50292CCFB4004C7E13 /* ContentView.swift */,
-				477E9D52292CCFB6004C7E13 /* Assets.xcassets */,
+				47D0B1D02933A2570061FD40 /* AppIcon.jpg */,
+				47D0B1D22933A4460061FD40 /* appstore.png */,
+				47D0B1D32933A4460061FD40 /* Assets.xcassets */,
+				47D0B1D42933A4460061FD40 /* playstore.png */,
 				477E9D54292CCFB6004C7E13 /* Preview Content */,
 			);
 			path = "Gym Assistant Watch App";
@@ -283,8 +292,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47D0B1D12933A2570061FD40 /* AppIcon.jpg in Resources */,
+				47D0B1D52933A4460061FD40 /* appstore.png in Resources */,
 				477E9D56292CCFB6004C7E13 /* Preview Assets.xcassets in Resources */,
-				477E9D53292CCFB6004C7E13 /* Assets.xcassets in Resources */,
+				47D0B1D62933A4460061FD40 /* Assets.xcassets in Resources */,
+				47D0B1D72933A4460061FD40 /* playstore.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
