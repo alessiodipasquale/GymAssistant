@@ -100,10 +100,10 @@ struct ContentView_Previews: PreviewProvider {
 
 func getDayOfWeek() -> Int {
     
-    let date = Date()
-    //let dateFormatter = DateFormatter()
-    //dateFormatter.dateFormat = "MM/dd/yyyy hh:mma"
-    //let date = dateFormatter.date(from: "12/5/2022 7:59AM")
+    //let date = Date()
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "MM/dd/yyyy hh:mma"
+    let date = dateFormatter.date(from: "12/5/2022 7:59AM")
     print(date)
     
     let myCalendar = Calendar(identifier: .gregorian)
